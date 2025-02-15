@@ -1,4 +1,5 @@
 # Caesar Cipher
+# sample app from Python Games book
 
 MAX_KEY_SIZE = 26
 
